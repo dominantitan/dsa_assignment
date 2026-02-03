@@ -1,6 +1,6 @@
 # dsa_assignment
 
 compile and run with:
-gcc prog_<q>.c -o prog_<q> && ./prog_1
+gcc prog_num.c -o prog_num && ./prog_num
 
-where <q> is the number of the problem and doc_<q> is the documentation of the question 
+where num is the number of the problem and doc_num is the documentation of the question 
